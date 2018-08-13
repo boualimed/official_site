@@ -14,7 +14,7 @@ module.exports = {
     `gatsby-transformer-excel`,
     `gatsby-transformer-remark`,
     
-    `gatsby-source-mongodb`,
+     
 
     
 
@@ -30,10 +30,7 @@ module.exports = {
      * setup the site to pull data from the "documents" collection in a local
      * MongoDB instance
      */
-    {
-      resolve: `gatsby-source-mongodb`,
-      options: { dbName: `mydb`, collection: `bouali` },
-    },
+    
     /*****************/
     {
       resolve: `gatsby-plugin-typography`,
