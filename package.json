@@ -11,7 +11,7 @@
   "dependencies": {
     "emotion": "^9.2.6",
     "emotion-server": "^9.2.6",
-    "gatsby": "1.1.58",
+    "gatsby": "next",
     "gatsby-plugin-emotion": "^1.1.17",
     "gatsby-plugin-sitemap": "^1.2.25",
     "gatsby-plugin-typography": "^1.7.19",
