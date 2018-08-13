@@ -14,7 +14,11 @@ module.exports = {
     `gatsby-transformer-excel`,
     `gatsby-transformer-remark`,
     
+<<<<<<< HEAD
      
+=======
+    
+>>>>>>> c253c4f3d9cf5bbeb29caf815e7fefeb54165b4d
 
     
 
