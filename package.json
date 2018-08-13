@@ -12,7 +12,7 @@
     "emotion": "^9.2.6",
     "emotion-server": "^9.2.6",
     "gatsby": "next",
-    "gatsby-link": "^1.6.46",
+    "gatsby-link": "next",
     "gatsby-plugin-emotion": "^1.1.17",
     "gatsby-plugin-sitemap": "^1.2.25",
     "gatsby-plugin-typography": "^1.7.19",
