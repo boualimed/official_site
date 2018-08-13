@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import indexStyles from "../styles/index.module.css"
-import GatsbyLink from "gatsby-link";
+
 class IndexComponent extends React.Component {
   render() {
     const data1 = this.props.data.allLettersXlsxSheet1.edges
