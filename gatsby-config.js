@@ -14,7 +14,7 @@ module.exports = {
     `gatsby-transformer-excel`,
     `gatsby-transformer-remark`,
     
-    `gatsby-source-mongodb`,
+    
 
     
 
